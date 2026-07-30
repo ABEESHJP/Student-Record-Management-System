@@ -18,7 +18,7 @@ int main()
 		printf("*              [M/m] : Modify a Record	           *\n");
 		printf("*              [V/v] : Save.                	   *\n");
 		printf("*	           [T/t] : Sort the List		       *\n");
-		printf("*              [E/e] : Exit	                 	   *\n");
+		printf("*              [E/e] : Exit	            	       *\n");
 		printf("****************************************************\n");
 
 		printf("\nEnter Your Choice : ");

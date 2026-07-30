@@ -10,15 +10,15 @@ int main()
 	while(1)
 	{
 		printf("****************************************************\n");
-		printf("*     	        STUDENT RECORD MENU	           *\n");
+		printf("*     	        STUDENT RECORD MENU	               *\n");
 		printf("****************************************************\n");
-		printf("*	       [A/a] : Add New Record    	   *\n");
-		printf("*     	       [D/d] : Delete a Record		   *\n");
-		printf("*              [S/s] : Show the List		   *\n");
+		printf("*	           [A/a] : Add New Record          	   *\n");
+		printf("*     	       [D/d] : Delete a Record	bn	       *\n");
+		printf("*              [S/s] : Show the List		       *\n");
 		printf("*              [M/m] : Modify a Record	           *\n");
-		printf("*              [V/v] : Save			   *\n");
-		printf("*	       [T/t] : Sort the List		   *\n");
-		printf("*              [E/e] : Exit			   *\n");
+		printf("*              [V/v] : Save		            	   *\n");
+		printf("*	           [T/t] : Sort the List		       *\n");
+		printf("*              [E/e] : Exit		             	   *\n");
 		printf("****************************************************\n");
 
 		printf("\nEnter Your Choice : ");

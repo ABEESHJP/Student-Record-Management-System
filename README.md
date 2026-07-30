@@ -83,9 +83,8 @@ Run the executable:
 3. Modify Student
 4. Show Students
 5. Save Records
-6. Load Records
-7. Sort Records
-8. Exit
+6. Sort Records
+7. Exit
 ```
 
 ---
